@@ -1,0 +1,7 @@
+C:\Users\Vestb\source\repos\p4_new\p4_new\bin\Debug\p4_new.exe.config
+C:\Users\Vestb\source\repos\p4_new\p4_new\bin\Debug\p4_new.exe
+C:\Users\Vestb\source\repos\p4_new\p4_new\bin\Debug\p4_new.pdb
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\p4_new.csprojAssemblyReference.cache
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\p4_new.csproj.CoreCompileInputs.cache
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\p4_new.exe
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\p4_new.pdb

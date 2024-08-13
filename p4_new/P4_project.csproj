@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9594EE3D-B0F0-4085-ADC7-E6670D598537}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>p4_new</RootNamespace>
+    <AssemblyName>p4_new</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Customer.cs" />
+    <Compile Include="CustomerGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerGUI.Designer.cs">
+      <DependentUpon>CustomerGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forside.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forside.Designer.cs">
+      <DependentUpon>Forside.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kundekartotek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kundekartotek.Designer.cs">
+      <DependentUpon>Kundekartotek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewUserGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewUserGUI.Designer.cs">
+      <DependentUpon>NewUserGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Userinterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CustomerGUI.resx">
+      <DependentUpon>CustomerGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forside.resx">
+      <DependentUpon>Forside.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kundekartotek.resx">
+      <DependentUpon>Kundekartotek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewUserGUI.resx">
+      <DependentUpon>NewUserGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Userinterface.resx">
+      <DependentUpon>Userinterface.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56162066_554737065015997_5096226920043905024_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56326507_405225820269583_1943428673730248704_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frontpage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forside_Kartotek_Knap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forside_knap1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kartotek_Knap%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forside_NyKunde_Knap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimer2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custom_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Noerregade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kartotek_+.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CreateCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CreateCustomer2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left_eye.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right_eye.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person_personlig_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person_Log_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person_Helbred_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person_personlig_knap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person_GemÆndringer_Knap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person_SletKunde_Knap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

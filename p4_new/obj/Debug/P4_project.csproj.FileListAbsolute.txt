@@ -1,0 +1,128 @@
+C:\Users\Vestb\source\repos\p4_new\p4_new\bin\Debug\p4_new.exe.config
+C:\Users\Vestb\source\repos\p4_new\p4_new\bin\Debug\p4_new.exe
+C:\Users\Vestb\source\repos\p4_new\p4_new\bin\Debug\p4_new.pdb
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\P4_project.csprojAssemblyReference.cache
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\P4_project.csproj.CoreCompileInputs.cache
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\p4_new.exe
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\p4_new.pdb
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\P4_project.UserInterface.resources
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\P4_project.csproj.GenerateResource.cache
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\P4_project.CustomerGUI.resources
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\p4_new.Properties.Resources.resources
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\P4_project.Kundekartotek.resources
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\P4_project.NewUserGUI.resources
+C:\Users\Vestb\source\repos\p4_new\p4_new\obj\Debug\p4_new.Forside.resources
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\bin\Debug\p4_new.exe.config
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\bin\Debug\p4_new.exe
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\bin\Debug\p4_new.pdb
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\P4_project.csprojAssemblyReference.cache
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\P4_project.CustomerGUI.resources
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\P4_project.Kundekartotek.resources
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\P4_project.NewUserGUI.resources
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\p4_new.Properties.Resources.resources
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\P4_project.UserInterface.resources
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\P4_project.csproj.GenerateResource.cache
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\P4_project.csproj.CoreCompileInputs.cache
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\p4_new.exe
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\p4_new.pdb
+C:\Users\Vestb\source\repos\p4_projekt_kode\p4_new\obj\Debug\P4_project.Forside.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\bin\Debug\p4_new.exe.config
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\bin\Debug\p4_new.exe
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\bin\Debug\p4_new.pdb
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\P4_project.csprojAssemblyReference.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\P4_project.CustomerGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\P4_project.Forside.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\P4_project.Kundekartotek.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\P4_project.NewUserGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\p4_new.Properties.Resources.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\P4_project.UserInterface.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\P4_project.csproj.GenerateResource.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\P4_project.csproj.CoreCompileInputs.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\p4_new.exe
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert ny kode\p4_projekt_kode\p4_new\obj\Debug\p4_new.pdb
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\bin\Debug\p4_new.exe.config
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\bin\Debug\p4_new.exe
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\bin\Debug\p4_new.pdb
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.csprojAssemblyReference.cache
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.CustomerGUI.resources
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.Forside.resources
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.Kundekartotek.resources
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.NewUserGUI.resources
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\p4_new.Properties.Resources.resources
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.UserInterface.resources
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.csproj.GenerateResource.cache
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.csproj.CoreCompileInputs.cache
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\p4_new.exe
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\p4_new.pdb
+C:\Users\Vestb\OneDrive\Skrivebord\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.SmsGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\bin\Debug\p4_new.exe.config
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\bin\Debug\p4_new.exe
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\bin\Debug\p4_new.pdb
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.csprojAssemblyReference.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.CustomerGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.Forside.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.Kundekartotek.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.NewUserGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\p4_new.Properties.Resources.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.SmsGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.UserInterface.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.csproj.GenerateResource.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\P4_project.csproj.CoreCompileInputs.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\p4_new.exe
+\\ITS.AAU.DK\Users\mmc\Desktop\Robert Ny Kode 3.0\p4_projekt_kode_fra_Robert\p4_new\obj\Debug\p4_new.pdb
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\bin\Debug\p4_new.exe.config
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\bin\Debug\p4_new.exe
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\bin\Debug\p4_new.pdb
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\P4_project.csprojAssemblyReference.cache
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\P4_project.CustomerGUI.resources
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\P4_project.Forside.resources
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\P4_project.Kundekartotek.resources
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\P4_project.NewUserGUI.resources
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\p4_new.Properties.Resources.resources
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\P4_project.UserInterface.resources
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\P4_project.csproj.GenerateResource.cache
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\P4_project.csproj.CoreCompileInputs.cache
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\p4_new.exe
+C:\Users\Vestb\OneDrive\Skrivebord\Skelet 1.0\p4_new\obj\Debug\p4_new.pdb
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\bin\Debug\p4_new.exe.config
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\bin\Debug\p4_new.exe
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\bin\Debug\p4_new.pdb
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\P4_project.csprojAssemblyReference.cache
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\P4_project.CustomerGUI.resources
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\P4_project.Forside.resources
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\P4_project.Kundekartotek.resources
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\P4_project.NewUserGUI.resources
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\p4_new.Properties.Resources.resources
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\P4_project.UserInterface.resources
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\P4_project.csproj.GenerateResource.cache
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\P4_project.csproj.CoreCompileInputs.cache
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\p4_new.exe
+C:\Users\Vestb\OneDrive\Skrivebord\nyeste version\p4_new\obj\Debug\p4_new.pdb
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\bin\Debug\p4_new.exe.config
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\bin\Debug\p4_new.exe
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\bin\Debug\p4_new.pdb
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\P4_project.csprojAssemblyReference.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\P4_project.CustomerGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\P4_project.Forside.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\P4_project.Kundekartotek.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\P4_project.NewUserGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\p4_new.Properties.Resources.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\P4_project.UserInterface.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\P4_project.csproj.GenerateResource.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\P4_project.csproj.CoreCompileInputs.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\p4_new.exe
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version\p4_new\obj\Debug\p4_new.pdb
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\bin\Debug\p4_new.exe.config
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\bin\Debug\p4_new.exe
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\bin\Debug\p4_new.pdb
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\P4_project.csprojAssemblyReference.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\P4_project.CustomerGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\P4_project.Forside.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\P4_project.Kundekartotek.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\P4_project.NewUserGUI.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\p4_new.Properties.Resources.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\P4_project.UserInterface.resources
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\P4_project.csproj.GenerateResource.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\P4_project.csproj.CoreCompileInputs.cache
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\p4_new.exe
+\\ITS.AAU.DK\Users\mmc\Desktop\nyeste version done\p4_new\obj\Debug\p4_new.pdb
